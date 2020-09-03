@@ -48,7 +48,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: _shurui_
-  rss: false 
+  #rss: false 
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -73,7 +73,7 @@ share-links-active:
   github: true
   linkedin: true
   instagram: true
-  vk: false
+  #vk: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
