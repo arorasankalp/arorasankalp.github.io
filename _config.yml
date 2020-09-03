@@ -3,6 +3,9 @@
 # Name of website
 title: Sankalp Arora
 
+#description of the site 
+description: Let me introduce you to my geek side ! 
+
 # Your name to show in the footer
 author: Sankalp Arora
 
@@ -45,6 +48,7 @@ social-network-links:
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
   instagram: _shurui_
+  rss: false 
 #  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
@@ -178,7 +182,7 @@ date_format: "%B %-d, %Y"
 # --- You don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Asia/Kolkata"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
@@ -207,10 +211,12 @@ defaults:
 exclude:
   - CHANGELOG.md
   - CNAME
+  - Dockerfile
   - Gemfile
   - Gemfile.lock
   - LICENSE
   - README.md
+  - Vagrantfile
   - screenshot.png
   - docs/
   
